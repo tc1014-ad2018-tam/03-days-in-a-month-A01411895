@@ -1,0 +1,3 @@
+C:/Users/liaz__000/CLionProjects/Days in a Month/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/liaz__000/CLionProjects/Days in a Month/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/liaz__000/CLionProjects/Days in a Month/cmake-build-debug/CMakeFiles/rebuild_cache.dir
